@@ -1,0 +1,6 @@
+{
+  "name": "CloudCost Guardian",
+  "description": "A Cloud Resource Waste and Cost Leakage Detection & Prevention System utilizing transparent, deterministic rule-based analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
